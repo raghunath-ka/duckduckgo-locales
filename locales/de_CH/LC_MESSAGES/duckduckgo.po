@@ -2554,6 +2554,10 @@ msgid "Open %sSettings%s"
 msgstr "%sEinstellungen%s öffne"
 
 msgctxt "maps_places"
+msgid "Open 24 hours"
+msgstr ""
+
+msgctxt "maps_places"
 msgid "Open Expanded Map"
 msgstr "Erweiterte Karte öffnen"
 
@@ -2997,6 +3001,10 @@ msgstr "Regionale Einstellung"
 #. in https://duckduckgo.com/params under "Result Settings" .it is the second header
 msgid "Region:"
 msgstr "Region"
+
+msgctxt "maps_places"
+msgid "Regular Hours Today"
+msgstr ""
 
 msgid "Related Topics"
 msgstr "Ähnliche Themen"
