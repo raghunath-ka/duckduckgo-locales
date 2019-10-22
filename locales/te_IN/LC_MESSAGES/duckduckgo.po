@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr "!బ్యాంగ్ సెర్చ్ కు షార్ట్కట్"
+msgstr "!బ్యాంగ్ సెర్చ్‌కు షార్ట్‌కట్‌లు"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr "$800,000 విరాళాలు గోప్యతకై"
+msgstr "గోప్యత కోసం అందిన విరాళాలు $800,000!"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr "%s బిలియన్ అన్వేషణలు"
+msgstr "అన్వేషణలు - %s బిలియన్"
 
 msgid "%s blocked by safe search."
-msgstr "%s సేఫ్ సెర్చ్ చే బ్లాక్ చెయ్యబడినది"
+msgstr "సేఫ్ సెర్చ్ బ్లాక్ చేసినవి - %s"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -38,7 +38,7 @@ msgstr "%s అంటే %s"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr "%s విరాళాలు గోప్యతకై"
+msgstr "గోప్యత కోసం అందిన విరాళాలు %s"
 
 msgid "%s km"
 msgstr "%s కిలోమీటర్లు"
@@ -67,11 +67,11 @@ msgstr "మమ్మల్ని %s."
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr "%s%s%s బిలియన్ అన్వేషణలు"
+msgstr "అన్వేషణలు - %s%s%s బిలియన్"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%s%sAllow%s క్లిక్ చేసి, %sAdd%s క్లిక్ చేసి, %sAllow%s ఎంచుకుని, ఆ తర్వాత %sOkay%s క్లిక్ చేయండి"
 
 msgctxt "install-duckduckgo"
 msgid ""
@@ -83,22 +83,22 @@ msgctxt "noresults"
 msgid ""
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
-msgstr "ఫలితాలు ఉన్నాయి అని భావిస్తున్నారా, మరొక్కసారి ప్రయత్నిచటానికి %sClick here%s"
+msgstr "ఫలితాలు ఉన్నాయి అని మీరు భావిస్తే, మరోసారి ప్రయత్నించడానికి %sClick here%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr "%sడక్ డక్ గో ని వ్యాపించుటకు సహాయం చెయ్యండి!%s"
+msgstr "%s'డక్ డక్ గో'ను ప్రచారం చేయడంలో సాయం చేయండి!%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr "%sడక్ డక్ గో ని వ్యాపించుటకు సహాయం చెయ్యండి!%s"
+msgstr "%s'డక్ డక్ గో'ను ప్రచారం చేయడంలో సాయం చేయండి!%s"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
 msgstr "%sఇంకా తెలుసుకోండి%s."
 
 msgid "%sRight click%s in the search bar"
-msgstr "సెర్చ్ బార్ లో %sRight click%s చెయ్యండి"
+msgstr "సెర్చ్ బార్‌లో %sRight click%s చేయండి"
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
@@ -110,7 +110,7 @@ msgstr "%sduckduckgo.safariextz%s రెండు సార్లు నొక�
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
-msgstr "మూలాన్ని గుర్తించుటకై పదబంధం."
+msgstr "మూలాన్ని గుర్తించే ఒక స్ట్రింగ్."
 
 msgctxt "settings"
 msgid "ATB Dismiss"
@@ -118,25 +118,25 @@ msgstr ""
 
 msgctxt "settings"
 msgid "ATB related (not displayed on settings page)"
-msgstr ""
+msgstr "ATB సంబంధితం (సెట్టింగ్స్ పేజీలో ప్రదర్శితం కాదు)"
 
 #. In the new DDG website, this token appears as the Tab name for Instant Answers that give general information about a subject. eg. https://duckduckgo.com/?q=Sony
 #. It is not "About DuckDuckGo".
 msgid "About"
-msgstr "గురించి"
+msgstr "పరిచయం"
 
 #. This is the side bar "About" link
 msgctxt "static_page"
 msgid "About"
-msgstr "గురించి"
+msgstr "పరిచయం"
 
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
 msgid "About DuckDuckGo"
-msgstr "DuckDuckGo గురించి"
+msgstr "DuckDuckGo పరిచయం"
 
 msgid "About Us"
-msgstr "మా గురుంచి"
+msgstr "మా గురించి పరిచయం"
 
 #. Ad like 'advertisement'
 msgid "Ad"
@@ -144,11 +144,11 @@ msgstr "ప్రకటన"
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr "ప్రకటన చిరాకు తెపించేది"
+msgstr "ప్రకటన చిరాకు తెప్పిస్తోంది"
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
-msgstr "ప్రకటన సరైనది కాదు"
+msgstr "ప్రకటన తగనిది"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
@@ -164,25 +164,25 @@ msgstr "ప్రకటన అనుమాస్పదమైనది"
 
 #. From Home page, options to "Add DuckDuckGo" to browser or set as home page.
 msgid "Add DuckDuckGo"
-msgstr " DuckDuckGoని జతచేసుకోండి"
+msgstr " DuckDuckGoను జోడించండి"
 
 msgid "Add DuckDuckGo as a search engine"
-msgstr "DuckDuckGo ని సెర్చ్ ఇంజిన్ గా యాడ్ చేసుకోండి"
+msgstr "DuckDuckGoను ఒక సెర్చ్ ఇంజిన్‌గా యాడ్ చేసుకోండి"
 
 msgid "Add DuckDuckGo to %s"
-msgstr "DuckDuckGo ని %sకు  యాడ్  చేసుకోండి"
+msgstr "DuckDuckGoను %sకు  యాడ్  చేసుకోండి"
 
 #. https://duckduckgo.com/search_box near the top
 #. e.g.: Add a DuckDuckGo search box to your site! 
 msgid "Add a %s search box to your site!"
-msgstr "మీ సైటులో %s సెర్చ్ బాక్సని పెట్టుకోండి!"
+msgstr "మీ సైటులో %s సెర్చ్ బాక్స్‌ను పెట్టుకోండి!"
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
 msgstr "%s కు జోడించండి"
 
 msgid "Add to Home Screen"
-msgstr "హోమ్ స్క్రీన్ పై జత చేసుకోండి"
+msgstr "హోమ్ స్క్రీన్‌కు జత చేసుకోండి"
 
 #. In the top menu under Goodies
 msgid "Add-ons"
@@ -194,7 +194,7 @@ msgstr "చిరునామా"
 
 #. https://duckduckgo.com/params near the top under "Privacy Settings"
 msgid "Address bar:"
-msgstr "చిరునామా పట్టీ:"
+msgstr "అడ్రస్ బార్:"
 
 msgctxt "feedback form"
 msgid "Advertisements"
@@ -210,12 +210,12 @@ msgid "Advertisements:"
 msgstr "వ్యాపార ప్రకటనలు:"
 
 msgid "After it downloads and opens, click %sInstall%s"
-msgstr "డౌన్లోడ్ అయ్యి, తెరుచుకున్న తరువాత %sInstall%s పై నొక్కండి"
+msgstr "డౌన్‌లోడ్ అయ్యి, తెరుచుకున్న తరువాత %sInstall%s పై నొక్కండి"
 
 msgid ""
 "After it downloads, locate the extension file and double-click it to install"
 msgstr ""
-"డౌన్లోడ్ అయ్యిన తరువాత ఎక్స్టెన్షన్ ఫైల్ కోసం వెతకండి, తరువాత ఇన్స్టాల్ చేయుటకై దాని పై రెండు సార్లు నొక్కండి"
+"డౌన్‌లోడ్ అయ్యాక, ఎక్స్‌టెన్షన్ ఫైల్ కోసం వెతకండి,ఇన్‌స్టాల్ చేయడానికి దానిని రెండు సార్లు నొక్కండి"
 
 msgid "All"
 msgstr "అన్ని"
@@ -226,7 +226,7 @@ msgstr "అన్ని రంగులు"
 
 msgctxt "image-layout"
 msgid "All Layouts"
-msgstr "అన్ని లేఔట్ లు"
+msgstr "అన్ని లేఔట్‌లు"
 
 msgid "All Places"
 msgstr "అన్ని ప్రాంతాలు"
@@ -239,11 +239,11 @@ msgstr "అన్ని ఫలితాలు"
 
 #. In the top menu under Settings
 msgid "All Settings"
-msgstr "అన్ని అమరికలు"
+msgstr "అన్ని సెట్టింగ్‌లు"
 
 msgctxt "size"
 msgid "All Sizes"
-msgstr "అన్ని పరిమాణాలు"
+msgstr "అన్ని సైజులు"
 
 msgctxt "image-type"
 msgid "All Types"
@@ -255,17 +255,17 @@ msgstr "దాదాపుగా చేరుకున్నాం, ఇంకొ
 
 msgctxt "homepage onboarding"
 msgid "Already a fan?"
-msgstr "ముందుగానే మా అభిమాన ?"
+msgstr "ఆల్రెడీ మా ఫ్యాన్ ఆ?"
 
 #. For rotating carousel on the home page.
 #. "Help Spread DuckDuckGo!" links to /spread page
 msgctxt "frontpage"
 msgid "Already a fan? %sHelp Spread DuckDuckGo!%s"
-msgstr "ముందుగానే మా అభిమాన ? %sHelp Spread DuckDuckGo!%s"
+msgstr "ముందు నుంచే మీరు మా ఫ్యాన్ ఆ? %s'డక్ డక్ గో'ను ప్రచారం చేయడంలో సాయం చేయండి!%s"
 
 msgctxt "mobile promotion on desktop"
 msgid "Also search privately on your iPad, iPhone, or Android!"
-msgstr "గోప్యత తో అన్వేషించండి మీ ఐపాడ్ ,ఐఫోన్ మరియు ఆండ్రాయిడ్ పై! "
+msgstr "మీ ఐపాడ్ ,ఐఫోన్ లేదా ఆండ్రాయిడ్‌లలో గోప్యతతో అన్వేషించండి!"
 
 #. Instant Answer Tab Name
 msgid "Alternatives"
@@ -278,7 +278,7 @@ msgstr "ఎల్లప్పుడూ డక్‌డక్‌గో లోన�
 
 msgctxt "image-type"
 msgid "Animated GIF"
-msgstr "ఆనిమేటెడ్ GIF"
+msgstr "యానిమేటెడ్ GIF"
 
 #. Instant Answer tab name
 msgid "Answer"
@@ -286,7 +286,7 @@ msgstr "సమాధానం"
 
 #. In feedback page, first box. https://duckduckgo.com/feedback 
 msgid "Answers to most DuckDuckGo questions, like:"
-msgstr "DuckDuckGo సంబంధిత ప్రశ్నలకు సమాధానాలు, ఎలాగంటే"
+msgstr "DuckDuckGo సంబంధిత ప్రశ్నలకు సమాధానాలు, ఉదాహరణకు"
 
 msgctxt "video-duration"
 msgid "Any Duration"
@@ -298,7 +298,7 @@ msgstr "ఏ లైసెన్సు అయినా"
 
 msgctxt "video-resolution"
 msgid "Any Resolution"
-msgstr "ఏ రేసొల్యూషన్ అయినా"
+msgstr "ఏ రెజల్యూషన్ అయినా"
 
 #. Option for the filter-by-date search.
 msgid "Any Time"
@@ -311,7 +311,7 @@ msgid "App"
 msgstr "యాప్"
 
 msgid "App and Extension"
-msgstr "యాప్ మరియు ఎక్స్టెన్షన్"
+msgstr "యాప్ మరియు ఎక్స్‌టెన్షన్"
 
 msgid "Appearance"
 msgstr "రూపం"
@@ -323,17 +323,17 @@ msgstr "రూపం"
 
 #. Instant Answer Tab Name
 msgid "Apps"
-msgstr "అనువర్తనాలు"
+msgstr "యాప్‌లు"
 
 msgid "Argentina"
-msgstr "ఆర్జెంటినా"
+msgstr "ఆర్జెంటీనా"
 
 msgid ""
 "As per our privacy policy, we do not collect or share any personal "
 "information ourselves. All of this privacy protection happens on your device."
 msgstr ""
-"మా గోప్యత పాలసీ ప్రకారం మీ వ్యక్తిగత వివరాలు కూడగటుట లేదా పంచుట జరగదు. మీ వివరాలు మీతోనే మరియు ఈ "
-"గోప్యత రక్షణ అంత కేవలం మీ డివైస్ పైనే!"
+"మా గోప్యతా పాలసీ ప్రకారం మీ వ్యక్తిగత వివరాలను మేము సేకరించము, షేర్ చేయము. ఈ "
+"గోప్యతా రక్షణ అంతా మీ డివైజ్‌లోనే జరుగుతుంది!"
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
@@ -356,23 +356,23 @@ msgstr "స్వయం-ప్రతిపాదనలు"
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
-msgstr "సంబంధిత తక్షణ జవాబులను ఆటోమెటిగ్గా తెరుస్తుంది"
+msgstr "సంబంధిత తక్షణ జవాబులను ఆటోమేటిక్‌గా తెరుస్తుంది"
 
 msgid "Avoid eavesdropping and enhance wi-fi security."
-msgstr "పొంచి వినుటను అరికట్టండి మరియు మీ వైఫై సెక్యూరిటీ ని పెంచుకోండి"
+msgstr "వేరే వారు యాక్సెస్ చేయడాన్ని నివారించండి, మీ వై-ఫై సెక్యూరిటీని పెంచుకోండి"
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
-msgstr "తిరిగి అన్వేషణకు"
+msgstr "తిరిగి అన్వేషణకు తీసుకు వెళ్లు"
 
 #. http://i.imgur.com/6Eip5h1.png
 msgctxt "settings"
 msgid "Background Color"
-msgstr "వెనుతలపు రంగు"
+msgstr "బ్యాక్‌గ్రౌండ్ రంగు"
 
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "Background:"
-msgstr "వెనుతలం:"
+msgstr "బ్యాక్‌గ్రౌండ్:"
 
 #. https://duckduckgo.com/newbang
 msgid "Bang category"
